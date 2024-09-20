@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Rust !
 
-<a href="https://app.daily.dev/richezantoine" target="_blank"><img src="./devcard.png" width="356" alt="Richez Antoine's Dev Card"/></a>
+<a target="_blank" href="https://app.daily.dev/richezantoine">
+  <img src="./devcard.png" width="356" alt="Richez Antoine's Dev Card"/>
+</a>
