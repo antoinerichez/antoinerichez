@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/richezantoine" target="_blank"><img src="https://api.daily.dev/devcards/v2/fWf8FJvsCyfAdr2kzYBFp.png?r=ibs&type=default" width="356" alt="Richez Antoine's Dev Card"/></a>
+- 🌱 I’m currently learning Rust !
+
+<a href="https://app.daily.dev/richezantoine" target="_blank"><img src="./devcard.png" width="356" alt="Richez Antoine's Dev Card"/></a>
