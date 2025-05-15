@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Rust !
+- 🌱 I’m currently learning Rust & Golang !
 
-<a target="_blank" href="https://app.daily.dev/richezantoine">
-  <img src="./devcard.png" width="356" alt="Richez Antoine's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/richezantoine"><img src="https://api.daily.dev/devcards/v2/fWf8FJvsCyfAdr2kzYBFp.png?type=wide&r=6wc" width="652" alt="Richez Antoine's Dev Card"/></a>
